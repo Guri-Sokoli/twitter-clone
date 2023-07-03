@@ -11,8 +11,8 @@ export default function ProfilePill() {
           />
 
           <div className="flex flex-col ml-4">
-            <span className="font-bold text-md">DaShrekk</span>
-            <span className="text-sm text-gray-500">@DaShrekerz</span>
+            <span className="font-bold text-md">NameUser</span>
+            <span className="text-sm text-gray-500">@UserName</span>
           </div>
         </div>
 
